@@ -1,0 +1,5 @@
+com\tb\mapper\OrderItemMapper.class
+com\tb\mapper\OrderMapper.class
+com\tb\mapper\OrderShippingMapper.class
+com\tb\service\DubboOrderServiceImpl.class
+com\tb\SpringBootRun.class
